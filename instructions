@@ -1,54 +1,40 @@
-# User Research Interview Tracking
+Certainly! Here's a brief guide for the researcher on how to create a copy of a Confluence page and anonymize participant names:
 
-## Interview Details
-- **Date:** YYYY-MM-DD
-- **Participant:** Participant Name/ID
-- **Duration:** 30 minutes
+### Creating a Copy of a Confluence Page
 
-## Interview Team
-- **Researcher:** [Name]
-- **Observer 1:** [Name]
-- **Observer 2:** [Name]
+1. **Navigate to the Original Page:**
+   - Open the Confluence page you want to copy.
 
-## Interview Notes
+2. **Copy the Page:**
+   - Look for the three dots (...) in the page menu at the top right.
+   - Click on "Copy."
 
-| Time  | Researcher Notes | Observer 1 Notes | Observer 2 Notes |
-|-------|------------------|------------------|------------------|
-| 00:00 |                  |                  |                  |
-| 05:00 |                  |                  |                  |
-| 10:00 |                  |                  |                  |
-| 15:00 |                  |                  |                  |
-| 20:00 |                  |                  |                  |
-| 25:00 |                  |                  |                  |
-| 30:00 |                  |                  |                  |
+3. **Set New Page Details:**
+   - A new page editor will open with the content copied from the original.
+   - Give the new page a distinctive title, such as "User Interview - [Date-Time]."
+   - Update any other necessary details like labels or parent page, if needed.
 
-## Key Insights
+4. **Save the New Page:**
+   - Once you've made the necessary changes, click "Publish" to create the new page.
 
-1. **Product Effectiveness:**
-   - Researcher Insight
-   - Observer 1 Insight
-   - Observer 2 Insight
+### Anonymizing Participant Names
 
-2. **Specific Experiences:**
-   - Researcher Insight
-   - Observer 1 Insight
-   - Observer 2 Insight
+1. **Replace Names with Codes:**
+   - In the copied Confluence page, replace the participant's name with a unique identifier. For instance, use the date and time of the interview: "Participant_2024-01-03_10AM."
 
-3. **Support Level Assessment:**
-   - Researcher Insight
-   - Observer 1 Insight
-   - Observer 2 Insight
+2. **Maintain a Key Document:**
+   - Create a separate, restricted-access document to maintain the key that links participant identifiers to their actual names. This document should be accessible only to authorized team members.
 
-## Action Items
+3. **Reference the Key:**
+   - In your interview notes, refer to participants only by their unique identifier. Avoid using any personal details that could inadvertently reveal their identity.
 
-- [ ] Action Item 1
-- [ ] Action Item 2
-- [ ] Action Item 3
+4. **Ensure Consistency:**
+   - Use the same format for all participant identifiers across different interviews to maintain consistency and ease of tracking.
 
-## Additional Comments
+### Final Tips
 
-- Researcher: 
-- Observer 1: 
-- Observer 2: 
+- **Check Permissions:** Ensure the copied page has the appropriate permissions set, especially if the original page had restricted access.
+- **Regular Updates:** If conducting multiple interviews, update the key document regularly to avoid confusion.
+- **Data Protection:** Always follow your organization's data protection policies when handling personal information.
 
----
+By following these steps, you can efficiently create anonymized records of your user research interviews while maintaining a reference system for participant identification.
