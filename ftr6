@@ -1,3 +1,7 @@
+project in (XXXX, YYYY, ZZZZ) AND status in ("In Progress", "Backlog") AND labels in ("PriorityHigh", "TeamAlpha") ORDER BY due ASC
+
+
+
 | Feature (Epic) | Feature Description | Feature Acceptance Criteria | Stories with Description and Acceptance Criteria |
 |----------------|---------------------|----------------------------|--------------------------------------------------|
 | **Delivery and Installation Planning - Vending Machine Deployment** | Focuses on planning and organizing the delivery and installation of vending machines across the organization. | A detailed schedule and installation plan, coordination with internal teams and vendors, resource allocation. | 1. **Story 1: Creation of a Detailed Delivery Schedule**<br>- *Description:* Develop a schedule for the delivery of vending machines.<br>- *Acceptance Criteria:* A complete delivery schedule that aligns with vendor timelines.<br>2. **Story 2: Development of an Installation Plan**<br>- *Description:* Plan the installation process for each vending machine.<br>- *Acceptance Criteria:* An actionable installation plan for each site. |
