@@ -1,24 +1,6 @@
-This Feature focuses on effectively communicating the vending machine deployment process within the organization. It aims to inform and engage staff about the upcoming installations, address potential concerns, and minimize disruptions. Effective communication will ensure staff are well-informed and supportive of the changes.
-
-Acceptance Criteria:
-
-Comprehensive Communication Plan: A communication plan is developed, detailing how and when information will be disseminated.
-Timely Information Dissemination: All relevant parties are informed about the vending machine installation schedule in a timely manner.
-Clear and Accurate Information: Information provided to staff is clear, accurate, and addresses potential questions or concerns.
-Feedback Mechanism: A mechanism is in place for staff to provide feedback or ask questions regarding the vending machine deployment.
-Engagement Tracking: The level of staff engagement and understanding of the information is tracked and assessed.
-Stories:
-
-Story 1: Develop a Communication Plan for Vending Machine Deployment
-Develop a detailed plan outlining the communication strategy, including channels, timelines, and key messages.
-Story 2: Create and Disseminate Informational Materials
-Prepare and distribute informational materials (emails, flyers, intranet posts) about the vending machine installation schedule and what to expect.
-Story 3: Set Up a Feedback and Query Response System
-Establish a system for staff to provide feedback or ask questions, ensuring their concerns are addressed promptly.
-Story 4: Conduct Engagement Surveys Post-Communication
-Conduct surveys or informal check-ins to gauge staff understanding and engagement with the deployment process.
-Story 5: Review and Adapt Communication Strategy Based on Feedback
-Analyze feedback and engagement levels to refine and adapt the communication strategy for future phases or similar projects.
-Obtain Sign-Off on Delivery Timelines and Establish Agreement Tracking
-
-Description: Secure formal sign-off on the vending machine delivery timelines from all relevant stakeholders, including building staff and technology teams. Develop a system or documentation process to track these agreements, enabling clear reference to commitments and timelines agreed to. Include a formal definition of the word commitment. 
+| Feature (Epic) | Feature Description | Feature Acceptance Criteria | Stories with Description and Acceptance Criteria |
+|----------------|---------------------|----------------------------|--------------------------------------------------|
+| **Delivery and Installation Planning - Vending Machine Deployment** | Focuses on planning and organizing the delivery and installation of vending machines across the organization. | A detailed schedule and installation plan, coordination with internal teams and vendors, resource allocation. | 1. **Story 1: Creation of a Detailed Delivery Schedule**<br>- *Description:* Develop a schedule for the delivery of vending machines.<br>- *Acceptance Criteria:* A complete delivery schedule that aligns with vendor timelines.<br>2. **Story 2: Development of an Installation Plan**<br>- *Description:* Plan the installation process for each vending machine.<br>- *Acceptance Criteria:* An actionable installation plan for each site. |
+| **Internal Communication and Staff Engagement - Vending Machine Deployment** | Focuses on effectively communicating the vending machine deployment within the organization. | Comprehensive communication plan, timely information dissemination, feedback mechanism, engagement tracking. | 1. **Original Story 1: Develop a Communication Plan**<br>- *Description:* Develop a detailed communication strategy.<br>- *Acceptance Criteria:* A complete communication plan.<br>2. **New Story 1b: Obtain Sign-Off on Delivery Timelines**<br>- *Description:* Secure formal sign-off on delivery timelines.<br>- *Acceptance Criteria:* Formal agreement from stakeholders. |
+| **Quality Assurance and Feedback - Vending Machine Deployment** | Ensuring each vending machine is functioning correctly and meets users' needs. | Successful quality checks, feedback collection and analysis, issue resolution, report compilation. | 1. **Story 1: Perform Quality Assurance Checks**<br>- *Description:* Conduct quality checks post-installation.<br>- *Acceptance Criteria:* Each machine passes quality checks.<br>2. **Story 2: Gather User Feedback Post-Installation**<br>- *Description:* Collect feedback from users.<br>- *Acceptance Criteria:* Feedback is gathered and analyzed. |
+| **Delivery and Installation Execution - Vending Machine Deployment** | Involves overseeing the delivery process, ensuring each machine is installed correctly, and verifying operational functionality. | Timely delivery, installation compliance, operational verification, site clean-up and sign-off, minimal disruption. | 1. **Story 1: Coordinate and Oversee Delivery**<br>- *Description:* Manage the delivery of vending machines.<br>- *Acceptance Criteria:* Vending machines are delivered as per schedule. |
