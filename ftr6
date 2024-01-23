@@ -8,3 +8,34 @@ project in (XXXX, YYYY, ZZZZ) AND status in ("In Progress", "Backlog") AND label
 | **Internal Communication and Staff Engagement - Vending Machine Deployment** | Focuses on effectively communicating the vending machine deployment within the organization. | Comprehensive communication plan, timely information dissemination, feedback mechanism, engagement tracking. | 1. **Original Story 1: Develop a Communication Plan**<br>- *Description:* Develop a detailed communication strategy.<br>- *Acceptance Criteria:* A complete communication plan.<br>2. **New Story 1b: Obtain Sign-Off on Delivery Timelines**<br>- *Description:* Secure formal sign-off on delivery timelines.<br>- *Acceptance Criteria:* Formal agreement from stakeholders. |
 | **Quality Assurance and Feedback - Vending Machine Deployment** | Ensuring each vending machine is functioning correctly and meets users' needs. | Successful quality checks, feedback collection and analysis, issue resolution, report compilation. | 1. **Story 1: Perform Quality Assurance Checks**<br>- *Description:* Conduct quality checks post-installation.<br>- *Acceptance Criteria:* Each machine passes quality checks.<br>2. **Story 2: Gather User Feedback Post-Installation**<br>- *Description:* Collect feedback from users.<br>- *Acceptance Criteria:* Feedback is gathered and analyzed. |
 | **Delivery and Installation Execution - Vending Machine Deployment** | Involves overseeing the delivery process, ensuring each machine is installed correctly, and verifying operational functionality. | Timely delivery, installation compliance, operational verification, site clean-up and sign-off, minimal disruption. | 1. **Story 1: Coordinate and Oversee Delivery**<br>- *Description:* Manage the delivery of vending machines.<br>- *Acceptance Criteria:* Vending machines are delivered as per schedule. |
+
+
+
+Delivery Schedule Template Structure
+Machine Details:
+Machine ID/Serial Number: Unique identifier for each vending machine.
+Model/Type: Specifications or types of machines, if there are different categories.
+Delivery Location:
+Department/Division: Name of the department or division where the machine will be placed.
+Physical Address: Specific location details within the facility.
+Schedule Information:
+Planned Delivery Date: The scheduled date for delivery.
+Installation Time Slot: Specific time or range for installation.
+Status: Current status (e.g., Scheduled, Delivered, Installed).
+Stakeholder Acknowledgement:
+Responsible Person: Name of the person in charge at the delivery location.
+Confirmation: Space for digital or physical signature for acknowledging the delivery plan.
+Pre-Delivery Requirements:
+Site Preparation: Checklist of any site preparation needed before delivery (e.g., space allocation, power access).
+Special Instructions: Any specific instructions or requirements unique to the location.
+Post-Delivery Actions:
+Installation Confirmation: Confirmation of installation completion.
+Functional Testing: Checklist for ensuring the machine is fully operational.
+Feedback/Comments: Space for notes or comments post-delivery.
+Integration with SharePoint Dashboard
+Automated Data Feeding: The template should feed data into a SharePoint dashboard for real-time tracking. This can be achieved through SharePoint lists or integrated databases.
+Visualization: Use SharePoint's built-in visualization tools to create a dynamic dashboard that reflects real-time status updates from the template.
+Alerts and Notifications: Set up automated alerts for upcoming deliveries, changes in schedule, or action items.
+Access Control: Manage permissions to ensure relevant stakeholders have access to view or edit the schedule as appropriate.
+Document Storage: Link related documents (like contracts, manuals, installation guides) directly in the SharePoint dashboard for easy access.
+Feedback Loop: Incorporate a system for immediate feedback or reporting issues post-delivery, which can be tracked and addressed through the dashboard.
