@@ -1,41 +1,17 @@
-project in (XXXX, YYYY, ZZZZ) AND status in ("In Progress", "Backlog") AND labels in ("PriorityHigh", "TeamAlpha") ORDER BY due ASC
+## Vending Machine Project Summary
 
+| Feature (Epic)           | Feature Acceptance Criteria | Feature Outcome | Stories and Tasks | Story Acceptance Criteria | Story Outcomes | Major Milestones |
+|--------------------------|-----------------------------|-----------------|-------------------|---------------------------|----------------|------------------|
+| **Logistics and Setup** | All machines delivered and installed as per schedule. Compliance with logistical and safety standards. | Successful setup and operational vending machines across the organization. | - Machine procurement<br>- Delivery scheduling<br>- Installation coordination | - All machines procured and received.<br>- Delivery schedule adhered to.<br>- Installation completed with safety compliance. | Machines are functional and accessible in designated locations. | - Completion of Machine Installation |
+| **Software Integration** | Seamless integration with existing systems. User authentication and transaction processing are functional. | Integrated vending machines providing efficient and secure transactions. | - Integration with ID badge system<br>- Payment system setup<br>- Transaction testing | - Successful system integration test.<br>- Secure and accurate transaction processing.<br>- User feedback on system usability. | Fully integrated vending solution operational for users. | - Software Integration Completion |
+| **Communications Plan** | Stakeholders are informed and engaged throughout the project. Positive reception of the vending machines. | Effective communication leading to smooth adoption and positive perception. | - Creation of informational materials<br>- Internal communication strategy<br>- Feedback collection system | - Informational materials distributed.<br>- Engagement metrics meet targets.<br>- Feedback process established and utilized. | Increased awareness and understanding of the vending machine project among employees. | - Launch of Awareness Campaign |
+| **Employee Training** | Staff adequately trained to use and manage the vending machines. | Empowered employees capable of efficiently using and maintaining the vending machines. | - Training sessions for employees<br>- Creation of training materials<br>- Feedback on training effectiveness | - High attendance rate in training sessions.<br>- Positive feedback from training participants.<br>- Reduction in user errors post-training. | Employees confident in using and troubleshooting the vending machines. | - Completion of Staff Training Sessions |
+| **Maintenance and Support** | Regular maintenance schedule established. Effective support system in place for addressing issues. | Vending machines are consistently operational with minimal downtime. | - Setup of maintenance routine<br>- Establishment of support desk<br>- Feedback loop for continuous improvement | - Maintenance schedule adhered to.<br>- Quick resolution of reported issues.<br>- Ongoing collection and implementation of improvement suggestions. | Reliable vending machine service with efficient issue resolution. | - Establishment of Maintenance Routine |
 
-
-| Feature (Epic) | Feature Description | Feature Acceptance Criteria | Stories with Description and Acceptance Criteria |
-|----------------|---------------------|----------------------------|--------------------------------------------------|
-| **Delivery and Installation Planning - Vending Machine Deployment** | Focuses on planning and organizing the delivery and installation of vending machines across the organization. | A detailed schedule and installation plan, coordination with internal teams and vendors, resource allocation. | 1. **Story 1: Creation of a Detailed Delivery Schedule**<br>- *Description:* Develop a schedule for the delivery of vending machines.<br>- *Acceptance Criteria:* A complete delivery schedule that aligns with vendor timelines.<br>2. **Story 2: Development of an Installation Plan**<br>- *Description:* Plan the installation process for each vending machine.<br>- *Acceptance Criteria:* An actionable installation plan for each site. |
-| **Internal Communication and Staff Engagement - Vending Machine Deployment** | Focuses on effectively communicating the vending machine deployment within the organization. | Comprehensive communication plan, timely information dissemination, feedback mechanism, engagement tracking. | 1. **Original Story 1: Develop a Communication Plan**<br>- *Description:* Develop a detailed communication strategy.<br>- *Acceptance Criteria:* A complete communication plan.<br>2. **New Story 1b: Obtain Sign-Off on Delivery Timelines**<br>- *Description:* Secure formal sign-off on delivery timelines.<br>- *Acceptance Criteria:* Formal agreement from stakeholders. |
-| **Quality Assurance and Feedback - Vending Machine Deployment** | Ensuring each vending machine is functioning correctly and meets users' needs. | Successful quality checks, feedback collection and analysis, issue resolution, report compilation. | 1. **Story 1: Perform Quality Assurance Checks**<br>- *Description:* Conduct quality checks post-installation.<br>- *Acceptance Criteria:* Each machine passes quality checks.<br>2. **Story 2: Gather User Feedback Post-Installation**<br>- *Description:* Collect feedback from users.<br>- *Acceptance Criteria:* Feedback is gathered and analyzed. |
-| **Delivery and Installation Execution - Vending Machine Deployment** | Involves overseeing the delivery process, ensuring each machine is installed correctly, and verifying operational functionality. | Timely delivery, installation compliance, operational verification, site clean-up and sign-off, minimal disruption. | 1. **Story 1: Coordinate and Oversee Delivery**<br>- *Description:* Manage the delivery of vending machines.<br>- *Acceptance Criteria:* Vending machines are delivered as per schedule. |
-
-
-
-Delivery Schedule Template Structure
-Machine Details:
-Machine ID/Serial Number: Unique identifier for each vending machine.
-Model/Type: Specifications or types of machines, if there are different categories.
-Delivery Location:
-Department/Division: Name of the department or division where the machine will be placed.
-Physical Address: Specific location details within the facility.
-Schedule Information:
-Planned Delivery Date: The scheduled date for delivery.
-Installation Time Slot: Specific time or range for installation.
-Status: Current status (e.g., Scheduled, Delivered, Installed).
-Stakeholder Acknowledgement:
-Responsible Person: Name of the person in charge at the delivery location.
-Confirmation: Space for digital or physical signature for acknowledging the delivery plan.
-Pre-Delivery Requirements:
-Site Preparation: Checklist of any site preparation needed before delivery (e.g., space allocation, power access).
-Special Instructions: Any specific instructions or requirements unique to the location.
-Post-Delivery Actions:
-Installation Confirmation: Confirmation of installation completion.
-Functional Testing: Checklist for ensuring the machine is fully operational.
-Feedback/Comments: Space for notes or comments post-delivery.
-Integration with SharePoint Dashboard
-Automated Data Feeding: The template should feed data into a SharePoint dashboard for real-time tracking. This can be achieved through SharePoint lists or integrated databases.
-Visualization: Use SharePoint's built-in visualization tools to create a dynamic dashboard that reflects real-time status updates from the template.
-Alerts and Notifications: Set up automated alerts for upcoming deliveries, changes in schedule, or action items.
-Access Control: Manage permissions to ensure relevant stakeholders have access to view or edit the schedule as appropriate.
-Document Storage: Link related documents (like contracts, manuals, installation guides) directly in the SharePoint dashboard for easy access.
-Feedback Loop: Incorporate a system for immediate feedback or reporting issues post-delivery, which can be tracked and addressed through the dashboard.
+### Major Milestones
+- **Project Kick-off:** Official start of the vending machine project.
+- **Completion of Machine Installation:** All vending machines are successfully installed.
+- **Software Integration Completion:** Integration with ID systems and payment processing is fully functional.
+- **Launch of Awareness Campaign:** Communication strategy implemented and materials distributed.
+- **Completion of Staff Training Sessions:** Employees are trained on using and managing the vending machines.
+- **Establishment of Maintenance Routine:** Regular maintenance and support system operational.
